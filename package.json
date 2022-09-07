@@ -46,7 +46,7 @@
     "mongoose": "^6.5.4",
     "optiic": "^0.0.20",
     "puppeteer": "^17.1.1",
-    "r6api.js": "^4.0.0",
+    "r6api.js": "^4.4.1",
     "radio-browser": "^2.2.1",
     "serialize-javascript": "^6.0.0",
     "simple-node-logger": "^21.8.12",
